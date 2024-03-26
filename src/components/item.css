@@ -1,0 +1,12 @@
+.nirma{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: aqua;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.button{
+    margin-right: 0px;
+}
